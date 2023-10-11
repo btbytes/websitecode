@@ -37,6 +37,7 @@ def opml_to_html(filename):
 <meta http-equiv="last-modified" content="%s">
 <meta name="keywords" content="opml,feeds">
 <meta name="kind" content="page">
+<link href=/css/site4.css rel=stylesheet>
 <title>The blogs I read</title>
 <body>
 <article>
